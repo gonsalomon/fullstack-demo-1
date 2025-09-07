@@ -1,4 +1,4 @@
-# Demo for a job offer
+# Demo for a job offer (NextJS/Spring Boot/Azure SQL Database | over Azure)
 What's this development about? A job offer asked for me to develop a fullstack project consisting on a note taking app. I forked the project in order to own it, and be able to deploy it on Vercel (need to grant permissions). I deployed the backend on Azure App Service by using Azure CLI. Now the demo is fully functional! The URL is https://salomon-c9920c-gpte.vercel.app/.
 
 I did want to apply my cloud knowledge and patience when using Azure. Many people complain about its many steps to do something really simple... but it leaves no chance to make a mistake!
