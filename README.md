@@ -22,6 +22,6 @@ Day 2 (21-01) was spent half on assembling a Spring Boot backend, half spent on 
 
 Day 3 (22-01) was when I changed my mind on Supabase. Why not go fully fledged, I asked myself. So that's when I activated my GCP trial, which is free $300 credit on cloud services. That's ideal for a Cloud SQL instance which I'll be able to connect to from wherever I want to, provided I got the right connection string. The deployment path should be database>backend connection>backend>frontend connection>frontend. Let's try to make something fully functional!
 
-Still on day 3, I need to check if Azure will provide me with a database that's easier to connect with, or if I can deploy my Spring Boot backend in there. That, if it allows me for student credit only...
+Still on day 3, GCP wasn't working. I needed to check if Azure (I still don't know how AWS provides databases, and I know Azure will be easier than learning RDS) will provide me with a database that's easier to connect with, or if I can deploy my Spring Boot backend in there. That, if it allows me for student credit only...
 
-Day 4. Finally! Azure works (its free access didn't take too long to manage), its database works too... after deploying my frontend to Vercel, I will go on with deploying Spring Boot on Azure App Service. Smooth like it's butter! Will stick in the URL later!
+Day 4. FINISHED. Finally! Azure works (its free access didn't take too long to manage), its database works too... after deploying my frontend to Vercel, I will go on with deploying Spring Boot on Azure App Service. Smooth like butter! Will stick in the URL later!
