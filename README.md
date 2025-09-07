@@ -5,6 +5,7 @@ I did want to apply my cloud knowledge and patience when using Azure. Many peopl
 
 # 0 IMPORTANT
 I went a step forward and decided to fully deploy the demo. I'm comfortable with it.
+# NOTE # The deployment has been taken down after the job offer didn't go on, could redeploy whenever needed. Since it's no longer online, most of the functionality won't work. You can still see the code, though.
 # 1 Frontend
 Decided to work on frontend with NextJS (15.1.5, React 19.0.0), but only developing a SPA. I know NextJS does something with SSG but decided to stay out of it, and use it purely as a React container that later connects to an API. The CSS is wrapped around with TailwindCSS (3.4.1)
 # 2 Backend
