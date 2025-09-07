@@ -4,8 +4,8 @@ What's this development about? A job offer asked for me to develop a fullstack p
 I did want to apply my cloud knowledge and patience when using Azure. Many people complain about its many steps to do something really simple... but it leaves no chance to make a mistake!
 ## NOTE The deployment has been taken down after the job offer didn't go on, could redeploy whenever needed. Since it's no longer online, most of the functionality won't work. You can still see the code, though.
 
-# 0 IMPORTANT
-I went a step forward and decided to fully deploy the demo. I'm comfortable with it.
+# 0 Deployment note
+I went a step forward and decided to fully deploy the demo on Azure. I'm comfortable with it.
 # 1 Frontend
 Decided to work on frontend with NextJS (15.1.5, React 19.0.0), but only developing a SPA. I know NextJS does something with SSG but decided to stay out of it, and use it purely as a React container that later connects to an API. The CSS is wrapped around with TailwindCSS (3.4.1)
 # 2 Backend
